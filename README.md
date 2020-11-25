@@ -15,3 +15,7 @@ As stated above, this section is about deployment.
 DEPLOYMENT IS COOL.
 
 ## How to Contribute
+
+### Copyright
+
+2020 Git.Training.

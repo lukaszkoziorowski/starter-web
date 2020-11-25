@@ -16,6 +16,8 @@ DEPLOYMENT IS COOL.
 
 ## How to Contribute
 
+PLease fork this repo and thein issue Pull Requests for review.
+
 ### Copyright
 
 2020 Git.Training.

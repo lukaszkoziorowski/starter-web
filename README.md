@@ -1,7 +1,6 @@
 # Starter Web Project
 
-This is a simple website boilerplate. Adding a line for reabsing example, then
-more changes from myfeature branch too!
+This is a simple website boilerplate. Updating for emergency after our stash.
 
 ## Introduction
 
